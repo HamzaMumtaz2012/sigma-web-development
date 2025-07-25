@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+}
+.mainbox{
+    background-color: aliceblue;
+    height: 589px;
+    width: 400px;
+    margin: auto;
+    position: relative;
+top: 20px;
+}
+.main{
+    background-color: white;
+    height: 550px;
+    width: 350px;
+    margin: auto;
+   position: relative;
+   top: 23px;
+   right: 1px;
+   border-radius: 25px;
+}
+img{
+    width: 345px;
+    position: relative;
+    top: 10px;
+    border-radius: 25px;
+    height: 250px;
+}
+.notmain{
+background-color: white;
+display: flex;
+
+}
+.mainp{
+    background-color: white;
+    color: black;
+    border: 1px solid grey;
+    border-radius: 10px;
+    height: 20px;
+    width: 55px;
+    text-align: center;
+    padding-top: 4px
+}
+.p{
+    margin-right: 13px;
+    
+}
+ button{
+    background-color: rgb(172, 238, 238);
+    color: blue;
+    border-radius: 25px;
+    height: 40px;
+    width: 100px;
+   margin-left: 29%;
+ }
